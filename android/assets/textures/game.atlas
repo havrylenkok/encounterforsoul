@@ -1,0 +1,111 @@
+
+game.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jump
+  rotate: false
+  xy: 2, 36
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+ldemon
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+ldemon
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+ldemon
+  rotate: false
+  xy: 172, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+ldemon
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+memon
+  rotate: false
+  xy: 206, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+memon
+  rotate: false
+  xy: 206, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+memon
+  rotate: false
+  xy: 70, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+memon
+  rotate: false
+  xy: 104, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+move
+  rotate: false
+  xy: 36, 36
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 1
+stand
+  rotate: false
+  xy: 36, 36
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+move
+  rotate: false
+  xy: 70, 36
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 2
+move
+  rotate: false
+  xy: 104, 36
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 3
+move
+  rotate: false
+  xy: 138, 36
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 4
+soul
+  rotate: false
+  xy: 138, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
